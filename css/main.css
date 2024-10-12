@@ -49,6 +49,8 @@ header{
     left:50%;
     transform:translate(-50%);
     z-index:1;
+    background-color:rgba(0, 0, 0, 0.7);
+    border-radius:10px;
 }
 @media screen and (max-width:992px) {
     header{
