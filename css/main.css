@@ -607,8 +607,8 @@ section.equipment{
     flex-direction:column;
     align-items:center;
     justify-content:center;
-    background:url(../pic/background6.jpg) black fixed center/cover rgba(0,0,0,.4);
-    background-blend-mode:multipy;
+    background:url(../pic/background6.jpg) rgba(0, 0, 0, 0.432) fixed center/cover;
+    background-blend-mode:multiply;
 }
 section.equipment > p{
     text-align:center;
