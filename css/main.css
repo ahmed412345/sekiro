@@ -198,8 +198,8 @@ header .search #Checked:checked ~ input{
     right:50%;
     transform:translate(50% , -50%);
     padding:10px;
-    box-shadow:1px 1px 10px black;
-    background-color:rgba(255, 255, 255, 0.11);
+    box-shadow:1px 1px 10px white;
+    background-color:rgba(0, 0, 0, 0.514);
     border-radius:15px;
     line-height:2;
     text-align: center;
