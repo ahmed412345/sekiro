@@ -525,5 +525,11 @@
             </div>
             <h6>All rights reserved © 2024.</h6>
         </footer>
+        <script>
+            let allImages = document.images;
+			for (let img of allImages) {
+				img.setAttribute("loading", "lazy");
+			}
+        </script>
     </body>
 </html>
